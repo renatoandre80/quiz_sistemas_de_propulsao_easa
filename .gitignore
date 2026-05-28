@@ -1,5 +1,5 @@
 pyenv
-env
+.env
 claude.md
 venv
 pycache
